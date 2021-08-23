@@ -50,6 +50,11 @@ nav {
   padding: 2% 6%;
   justify-content: space-between;
   align-items: center;
+  font-family: "Montserrat", sans-serif;
+}
+
+nav h2 {
+  font-family: "Merriweather", serif;
 }
 
 nav img {
